@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#我们SciArts是做什么的？
+# 我们SciArts是做什么的？
 
 ![timg](http://7xnk7e.com1.z0.glb.clouddn.com/timg.jpg)
 
