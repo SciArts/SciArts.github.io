@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   绘制科研示意图，封面图，给论文增光添彩！升华为一幅幅艺术作品！每周定期的免费图文和视频教程。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SciArts
+wechat_username: SciArts
 github_username:  SciArts
 
 # Build settings
